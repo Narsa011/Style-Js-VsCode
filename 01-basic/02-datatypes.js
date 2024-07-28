@@ -6,19 +6,19 @@ console.log(3
     +
      3) // code readability should be high
 
-console.log("Narendra Singh")
+console.log(narendra)
 
 
-let name = "Narendra Singh"
-let age = 18
-let isLoggedIn = false
-let state;
+let name = "Narendra Singh" // sring---
+let age = 18 // number ---
+let isLoggedIn = false // boolean
+let state; // undefined
 
 // number => 2 to power 53
 // bigint
 // string => ""
 // boolean => true/false
-// null => standalone value
+// null => standalone value (obj)
 // undefined => 
 // symbol => unique
 
